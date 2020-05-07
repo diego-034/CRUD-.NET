@@ -1,0 +1,9 @@
+C:\Users\DIEGO\source\repos\CRUD_LOGICA\LIBCrudREPOSITORIES\bin\Debug\LIBCrudREPOSITORIES.dll
+C:\Users\DIEGO\source\repos\CRUD_LOGICA\LIBCrudREPOSITORIES\bin\Debug\LIBCrudREPOSITORIES.pdb
+C:\Users\DIEGO\source\repos\CRUD_LOGICA\LIBCrudREPOSITORIES\bin\Debug\LIBCrudDATA.dll
+C:\Users\DIEGO\source\repos\CRUD_LOGICA\LIBCrudREPOSITORIES\bin\Debug\LIBCrudDATA.pdb
+C:\Users\DIEGO\source\repos\CRUD_LOGICA\LIBCrudREPOSITORIES\obj\Debug\LIBCrudREPOSITORIES.csprojAssemblyReference.cache
+C:\Users\DIEGO\source\repos\CRUD_LOGICA\LIBCrudREPOSITORIES\obj\Debug\LIBCrudREPOSITORIES.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\source\repos\CRUD_LOGICA\LIBCrudREPOSITORIES\obj\Debug\LIBCrudREPOSITORIES.csproj.CopyComplete
+C:\Users\DIEGO\source\repos\CRUD_LOGICA\LIBCrudREPOSITORIES\obj\Debug\LIBCrudREPOSITORIES.dll
+C:\Users\DIEGO\source\repos\CRUD_LOGICA\LIBCrudREPOSITORIES\obj\Debug\LIBCrudREPOSITORIES.pdb
