@@ -4,3 +4,9 @@ C:\Users\DIEGO\source\repos\CRUD_LOGICA\LIBCrudDATA\obj\Debug\LIBCrudDATA.csproj
 C:\Users\DIEGO\source\repos\CRUD_LOGICA\LIBCrudDATA\obj\Debug\LIBCrudDATA.dll
 C:\Users\DIEGO\source\repos\CRUD_LOGICA\LIBCrudDATA\obj\Debug\LIBCrudDATA.pdb
 C:\Users\DIEGO\source\repos\CRUD_LOGICA\LIBCrudDATA\obj\Debug\LIBCrudDATA.csprojAssemblyReference.cache
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\LIBCrudDATA\bin\Debug\LIBCrudDATA.dll
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\LIBCrudDATA\bin\Debug\LIBCrudDATA.pdb
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\LIBCrudDATA\obj\Debug\LIBCrudDATA.csprojAssemblyReference.cache
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\LIBCrudDATA\obj\Debug\LIBCrudDATA.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\LIBCrudDATA\obj\Debug\LIBCrudDATA.dll
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\LIBCrudDATA\obj\Debug\LIBCrudDATA.pdb

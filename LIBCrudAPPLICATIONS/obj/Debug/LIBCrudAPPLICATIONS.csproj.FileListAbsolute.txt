@@ -9,3 +9,14 @@ C:\Users\DIEGO\source\repos\CRUD_LOGICA\LIBCrudAPPLICATIONS\obj\Debug\LIBCrudAPP
 C:\Users\DIEGO\source\repos\CRUD_LOGICA\LIBCrudAPPLICATIONS\obj\Debug\LIBCrudAPPLICATIONS.csproj.CopyComplete
 C:\Users\DIEGO\source\repos\CRUD_LOGICA\LIBCrudAPPLICATIONS\obj\Debug\LIBCrudAPPLICATIONS.dll
 C:\Users\DIEGO\source\repos\CRUD_LOGICA\LIBCrudAPPLICATIONS\obj\Debug\LIBCrudAPPLICATIONS.pdb
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\LIBCrudAPPLICATIONS\bin\Debug\LIBCrudAPPLICATIONS.dll
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\LIBCrudAPPLICATIONS\bin\Debug\LIBCrudAPPLICATIONS.pdb
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\LIBCrudAPPLICATIONS\bin\Debug\LIBCrudDATA.dll
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\LIBCrudAPPLICATIONS\bin\Debug\LIBCrudREPOSITORIES.dll
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\LIBCrudAPPLICATIONS\bin\Debug\LIBCrudDATA.pdb
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\LIBCrudAPPLICATIONS\bin\Debug\LIBCrudREPOSITORIES.pdb
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\LIBCrudAPPLICATIONS\obj\Debug\LIBCrudAPPLICATIONS.csprojAssemblyReference.cache
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\LIBCrudAPPLICATIONS\obj\Debug\LIBCrudAPPLICATIONS.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\LIBCrudAPPLICATIONS\obj\Debug\LIBCrudAPPLICATIONS.csproj.CopyComplete
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\LIBCrudAPPLICATIONS\obj\Debug\LIBCrudAPPLICATIONS.dll
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\LIBCrudAPPLICATIONS\obj\Debug\LIBCrudAPPLICATIONS.pdb

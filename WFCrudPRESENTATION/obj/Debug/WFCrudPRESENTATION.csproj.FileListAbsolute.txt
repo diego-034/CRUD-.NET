@@ -15,3 +15,20 @@ C:\Users\DIEGO\source\repos\CRUD_LOGICA\WFCrudPRESENTATION\bin\Debug\LIBCrudREPO
 C:\Users\DIEGO\source\repos\CRUD_LOGICA\WFCrudPRESENTATION\obj\Debug\WFCrudPRESENTATION.csproj.CopyComplete
 C:\Users\DIEGO\source\repos\CRUD_LOGICA\WFCrudPRESENTATION\obj\Debug\WFCrudPRESENTATION.exe
 C:\Users\DIEGO\source\repos\CRUD_LOGICA\WFCrudPRESENTATION\obj\Debug\WFCrudPRESENTATION.pdb
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\WFCrudPRESENTATION\bin\Debug\WFCrudPRESENTATION.exe.config
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\WFCrudPRESENTATION\bin\Debug\WFCrudPRESENTATION.exe
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\WFCrudPRESENTATION\bin\Debug\WFCrudPRESENTATION.pdb
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\WFCrudPRESENTATION\bin\Debug\LIBCrudAPPLICATIONS.dll
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\WFCrudPRESENTATION\bin\Debug\LIBCrudDATA.dll
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\WFCrudPRESENTATION\bin\Debug\LIBCrudREPOSITORIES.dll
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\WFCrudPRESENTATION\bin\Debug\LIBCrudAPPLICATIONS.pdb
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\WFCrudPRESENTATION\bin\Debug\LIBCrudDATA.pdb
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\WFCrudPRESENTATION\bin\Debug\LIBCrudREPOSITORIES.pdb
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\WFCrudPRESENTATION\obj\Debug\WFCrudPRESENTATION.csprojAssemblyReference.cache
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\WFCrudPRESENTATION\obj\Debug\WFCrudPRESENTATION.Home.resources
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\WFCrudPRESENTATION\obj\Debug\WFCrudPRESENTATION.Properties.Resources.resources
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\WFCrudPRESENTATION\obj\Debug\WFCrudPRESENTATION.csproj.GenerateResource.cache
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\WFCrudPRESENTATION\obj\Debug\WFCrudPRESENTATION.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\WFCrudPRESENTATION\obj\Debug\WFCrudPRESENTATION.csproj.CopyComplete
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\WFCrudPRESENTATION\obj\Debug\WFCrudPRESENTATION.exe
+C:\Users\DIEGO\Documents\Proyectos C#\CRUD_LOGICA\WFCrudPRESENTATION\obj\Debug\WFCrudPRESENTATION.pdb
